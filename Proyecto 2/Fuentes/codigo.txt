@@ -1,0 +1,28 @@
+formato aritméticas: 
+op		rs		rt		rd		shamt	funct
+000001	00001	00010  	00011  	00000	000000  ADD R3, R1, R2
+
+formato lw, sw, beq:
+op		rs		rt		inm
+000010 	00000	00001 	0000000000000000 		LW  R1, 0(R0)  dir 0
+
+codigo inicial en la ram de instrucciones:
+
+separado por campos:
+
+000010 	00000	00001 	0000000000000000 		LW  R1, 0(R0)  	
+000010 	00000	00010 	0000000000000100 		LW  R2, 4(R0)  	
+000001	00001	00010  	00011  	00000	000000  ADD R3, R1, R2 			
+000011 	00000	00011 	0000000000001000 		SW  R3, 8(R0)	guardamos el resultado en memoria
+000011 	00000	00001 	0000000000001000 		SW  R1, 8(R0)	Borramos el resultado para que en la siguiente iteración se vea de nuevo el cambio en la memoria de datos
+000100	00000	00000	11111111111101000		beq r0, r2, #0 queremos saltar a la posición 0, y el procesador calcula la dirección haciendo PC+4+ 4*Ëxt(inm). Hay que calcular el inmediato para que esa operación de 0. Si se cambia la instrucción de sitio hay que volver a calcularlo		
+
+
+En binario y hexadecimal:
+
+00001000000000010000000000000000 	08010000	LW  R1, 0(R0)
+00001000000000100000000000000100 	08020004	LW  R2, 4(R0)
+00000100001000100001100000000000  	04221800	ADD R3, R1, R2
+00001100000000110000000000001000 	0C030008	SW  R3, 8(R0)
+00001100000000110000000000001000 	0C030008	SW  R1, 8(R0)
+00010000000000011111111111101000	1000FFFA	beq r0, r0, dir0  

@@ -1,0 +1,818 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.3a/examples
+Eadder32
+Z0 w1430382799
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/puerto venecia/Desktop/P1 AOC2
+Z7 8C:/Users/puerto venecia/Desktop/P1 AOC2/adder32.vhd
+Z8 FC:/Users/puerto venecia/Desktop/P1 AOC2/adder32.vhd
+l0
+L33
+Vez3M66R73icgd5;^1]n[o0
+!s100 FdnT[E<XL_UiCO?C2]0L[0
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1431793888
+!i10b 1
+Z11 !s108 1431793887.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/adder32.vhd|
+Z13 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/adder32.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 7 adder32 0 22 ez3M66R73icgd5;^1]n[o0
+l41
+L39
+V9Th@5ho2TokL`O:o?GOnS2
+!s100 6lRC`O=[EbJ`<@kAJ`3P^1
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu
+Z16 w1430382806
+R1
+R2
+R3
+R4
+R5
+R6
+Z17 8C:/Users/puerto venecia/Desktop/P1 AOC2/ALU.vhd
+Z18 FC:/Users/puerto venecia/Desktop/P1 AOC2/ALU.vhd
+l0
+L33
+V@RAaWJGEJU]dl42V5llc>2
+!s100 E`1`MV@OJiDZHNeDL6[b81
+R9
+32
+Z19 !s110 1431793889
+!i10b 1
+Z20 !s108 1431793888.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/ALU.vhd|
+Z22 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/ALU.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 @RAaWJGEJU]dl42V5llc>2
+l42
+L40
+V>=Hj8m1iN?O16iTEo8A]m2
+!s100 X[SimW`d>R`c<i=CA]RP[1
+R9
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R14
+R15
+Ebanco_ex
+Z23 w1430382811
+R4
+R5
+R6
+Z24 8C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_EX.vhd
+Z25 FC:/Users/puerto venecia/Desktop/P1 AOC2/Banco_EX.vhd
+l0
+L32
+VD2mR@JWAl5YJE_3L0KlK]1
+!s100 1gHSjBQZKBQQWFbidWgo<3
+R9
+32
+Z26 !s110 1431793890
+!i10b 1
+Z27 !s108 1431793889.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_EX.vhd|
+Z29 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_EX.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 8 banco_ex 0 22 D2mR@JWAl5YJE_3L0KlK]1
+l64
+L62
+VcV;<Fi[Qd9VoL[]M5>Z4_1
+!s100 A]^HS1G[HhlmkBE0iL4180
+R9
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R14
+R15
+Ebanco_id
+Z30 w1430382822
+R4
+R5
+R6
+Z31 8C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_ID.vhd
+Z32 FC:/Users/puerto venecia/Desktop/P1 AOC2/Banco_ID.vhd
+l0
+L8
+VGN8CheDVL7he`UbIi2Wd:1
+!s100 _m=b:l1iQPCbR2C>j9LbV3
+R9
+32
+Z33 !s110 1431793892
+!i10b 1
+Z34 !s108 1431793891.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_ID.vhd|
+Z36 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_ID.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 8 banco_id 0 22 GN8CheDVL7he`UbIi2Wd:1
+l20
+L18
+VW5?m_b>=NBGb[]3OH>2F01
+!s100 ;RP9P;j3>_]lU`h6Xfm1@3
+R9
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R14
+R15
+Ebanco_mem
+Z37 w1430382835
+R4
+R5
+R6
+Z38 8C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_MEM.vhd
+Z39 FC:/Users/puerto venecia/Desktop/P1 AOC2/Banco_MEM.vhd
+l0
+L32
+Ve_BCiA06hX`X=P]Tane_g1
+!s100 ?USSIc9eczC<TE>;kaObE1
+R9
+32
+Z40 !s110 1431793893
+!i10b 1
+Z41 !s108 1431793892.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_MEM.vhd|
+Z43 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_MEM.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 9 banco_mem 0 22 e_BCiA06hX`X=P]Tane_g1
+l54
+L52
+V@14DKN4R5m`n^;_f_[EgC1
+!s100 L3PLMMzSnSf5lMERo4k?l3
+R9
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R14
+R15
+Ebanco_wb
+Z44 w1430382844
+R4
+R5
+R6
+Z45 8C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_WB.vhd
+Z46 FC:/Users/puerto venecia/Desktop/P1 AOC2/Banco_WB.vhd
+l0
+L32
+V6eXcQE7zz02BL3aGi[<F>3
+!s100 Dj=ZgPh1G[ne]R]6kzWRW1
+R9
+32
+R40
+!i10b 1
+Z47 !s108 1431793893.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_WB.vhd|
+Z49 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_WB.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 8 banco_wb 0 22 6eXcQE7zz02BL3aGi[<F>3
+l49
+L47
+VjKQ4_CS6D4@Z@GMkAePmJ3
+!s100 ?^XIZeBV;I]WDim1HT2QW1
+R9
+32
+R40
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R14
+R15
+Ebreg
+Z50 w1430382856
+R3
+R2
+R4
+R5
+R6
+Z51 8C:/Users/puerto venecia/Desktop/P1 AOC2/BReg.vhd
+Z52 FC:/Users/puerto venecia/Desktop/P1 AOC2/BReg.vhd
+l0
+L36
+V=cCY@g0]_Bi?QbD^lEPDh3
+!s100 >``zBST5ojY47l7jR8mXK1
+R9
+32
+Z53 !s110 1431793895
+!i10b 1
+Z54 !s108 1431793895.000000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/BReg.vhd|
+Z56 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/BReg.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 4 breg 0 22 =cCY@g0]_Bi?QbD^lEPDh3
+l55
+L50
+VI[Z5If8?9h6=Xi]DkI6@G2
+!s100 g5j38U]=Co;UeF7AK1FOz2
+R9
+32
+R53
+!i10b 1
+R54
+R55
+R56
+!i113 1
+R14
+R15
+Eext_signo
+Z57 w1430382865
+R4
+R5
+R6
+Z58 8C:/Users/puerto venecia/Desktop/P1 AOC2/Ext_signo.vhd
+Z59 FC:/Users/puerto venecia/Desktop/P1 AOC2/Ext_signo.vhd
+l0
+L32
+VXf93dK=jfGbHU]2Ef7mDW1
+!s100 =jQT7hQEW^Q9VGDz6>Dnd0
+R9
+32
+Z60 !s110 1431793896
+!i10b 1
+Z61 !s108 1431793896.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/Ext_signo.vhd|
+Z63 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/Ext_signo.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 9 ext_signo 0 22 Xf93dK=jfGbHU]2Ef7mDW1
+l39
+L37
+Va5[d?zV7L`XBX<c7AmWfn0
+!s100 LK3IFGmMiXJPmL2zW;mXf2
+R9
+32
+R60
+!i10b 1
+R61
+R62
+R63
+!i113 1
+R14
+R15
+Emc_test
+Z64 w1431532737
+R1
+R4
+R5
+R6
+Z65 8C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/MC_test.vhd
+Z66 FC:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/MC_test.vhd
+l0
+L7
+Va1eSG[g:>fo?EUTZRKHEh1
+!s100 >EBeY[WzOjlRBE?@`ICQJ2
+R9
+32
+Z67 !s110 1431793904
+!i10b 1
+Z68 !s108 1431793904.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/MC_test.vhd|
+Z70 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/MC_test.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R1
+R4
+R5
+DEx4 work 7 mc_test 0 22 a1eSG[g:>fo?EUTZRKHEh1
+l28
+L10
+V_PXhOa@TNA<W4o4bVS;bf3
+!s100 3naLgFJL6OZBF4gmhoGRA2
+R9
+32
+R67
+!i10b 1
+R68
+R69
+R70
+!i113 1
+R14
+R15
+Ememoriaram_d
+Z71 w1431679553
+R3
+R2
+R4
+R5
+R6
+Z72 8C:/Users/puerto venecia/Desktop/P1 AOC2/memoriaRAM.vhd
+Z73 FC:/Users/puerto venecia/Desktop/P1 AOC2/memoriaRAM.vhd
+l0
+L33
+VfFlDKazVPSkzX<390lJZJ0
+!s100 mMMNkR4IjQ>dUl6ZdTO3b1
+R9
+32
+Z74 !s110 1431793900
+!i10b 1
+Z75 !s108 1431793899.000000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/memoriaRAM.vhd|
+Z77 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/memoriaRAM.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 12 memoriaram_d 0 22 fFlDKazVPSkzX<390lJZJ0
+l61
+L42
+VRRAXAMKAE^eXK>g8=g11[2
+!s100 :h65Aj=j4?:XmX><cDN2@2
+R9
+32
+R74
+!i10b 1
+R75
+R76
+R77
+!i113 1
+R14
+R15
+Ememoriaram_i_mc
+Z78 w1431812936
+R3
+R2
+R4
+R5
+R6
+Z79 8C:/Users/puerto venecia/Desktop/P1 AOC2/memoria_RAM_I_MC.vhd
+Z80 FC:/Users/puerto venecia/Desktop/P1 AOC2/memoria_RAM_I_MC.vhd
+l0
+L32
+ViLNBA6RYX=@BDZHI@GZWK2
+!s100 f5gP;3JEklMTF`V><GJRZ2
+R9
+32
+Z81 !s110 1431812953
+!i10b 1
+Z82 !s108 1431812953.000000
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/memoria_RAM_I_MC.vhd|
+Z84 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/memoria_RAM_I_MC.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 15 memoriaram_i_mc 0 22 iLNBA6RYX=@BDZHI@GZWK2
+l98
+L41
+V6IgKTE59O@gzSCWiCL19H0
+!s100 :0ARS931iBTM4^SGVhDYM3
+R9
+32
+R81
+!i10b 1
+R82
+R83
+R84
+!i113 1
+R14
+R15
+Emips_segmentado
+Z85 w1431814999
+R4
+R5
+R6
+Z86 8C:\Users\puerto venecia\Desktop\P1 AOC2\MIPs_segmentado_MC_I.vhd
+Z87 FC:\Users\puerto venecia\Desktop\P1 AOC2\MIPs_segmentado_MC_I.vhd
+l0
+L17
+Ve<S3UnMGALX==76So=gmA3
+!s100 DJcDbJgiN<BoEZ@019[2E2
+R9
+32
+Z88 !s110 1431815014
+!i10b 1
+Z89 !s108 1431815014.000000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\puerto venecia\Desktop\P1 AOC2\MIPs_segmentado_MC_I.vhd|
+Z91 !s107 C:\Users\puerto venecia\Desktop\P1 AOC2\MIPs_segmentado_MC_I.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+Z92 DEx4 work 15 mips_segmentado 0 22 e<S3UnMGALX==76So=gmA3
+l204
+L23
+VQ=91k5O[GzI3dF^L>mj?g2
+!s100 WnajgeSgca;c7_?QiWOKz1
+R9
+32
+R88
+!i10b 1
+R89
+R90
+R91
+!i113 1
+R14
+R15
+Emips_test
+Z93 w1430383000
+R1
+R4
+R5
+R6
+Z94 8C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/mips_test_ini.vhd
+Z95 FC:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/mips_test_ini.vhd
+l0
+L7
+VShHbPR[RVTaoFRKiUgb;K3
+!s100 iPTMmCMQhNghZbD_SC0d22
+R9
+32
+Z96 !s110 1431793906
+!i10b 1
+Z97 !s108 1431793906.000000
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/mips_test_ini.vhd|
+Z99 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/mips_test_ini.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R1
+R4
+R5
+DEx4 work 9 mips_test 0 22 ShHbPR[RVTaoFRKiUgb;K3
+l24
+L10
+V46]2j=VA9HO[?HO9V^9043
+!s100 WRKQDA>>K>c>i8iml0:f=1
+R9
+32
+R96
+!i10b 1
+R97
+R98
+R99
+!i113 1
+R14
+R15
+Emux2_1
+Z100 w1430382904
+R4
+R5
+R6
+Z101 8C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_1.vhd
+Z102 FC:/Users/puerto venecia/Desktop/P1 AOC2/mux2_1.vhd
+l0
+L32
+V3ffz>_Pd`0UGm<RQ39N2<1
+!s100 [VRg3F0=o?Z:]Y[CCZJje0
+R9
+32
+R74
+!i10b 1
+Z103 !s108 1431793900.000000
+Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_1.vhd|
+Z105 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_1.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 6 mux2_1 0 22 3ffz>_Pd`0UGm<RQ39N2<1
+l41
+L39
+VmO@O?FljQV@CmH;ACBYgj1
+!s100 zIQT7B^e_I4Qli6JQET>o2
+R9
+32
+R74
+!i10b 1
+R103
+R104
+R105
+!i113 1
+R14
+R15
+Emux2_5bits
+Z106 w1430382909
+R4
+R5
+R6
+Z107 8C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_6bits.vhd
+Z108 FC:/Users/puerto venecia/Desktop/P1 AOC2/mux2_6bits.vhd
+l0
+L32
+VhCRR<1Cbl2c7k1]J0>8dM2
+!s100 GnzQIA<O?`7V;D;ZbXOiA0
+R9
+32
+Z109 !s110 1431793901
+!i10b 1
+Z110 !s108 1431793901.000000
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_6bits.vhd|
+Z112 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_6bits.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 10 mux2_5bits 0 22 hCRR<1Cbl2c7k1]J0>8dM2
+l41
+L39
+V[I3_:5o?GGJmF][39YDQA1
+!s100 =@Dj[OG[:JJ:5PSjamb5A3
+R9
+32
+R109
+!i10b 1
+R110
+R111
+R112
+!i113 1
+R14
+R15
+Ereg32
+Z113 w1430382930
+R4
+R5
+R6
+Z114 8C:/Users/puerto venecia/Desktop/P1 AOC2/reg32.vhd
+Z115 FC:/Users/puerto venecia/Desktop/P1 AOC2/reg32.vhd
+l0
+L32
+Vcf]H1V:29^h=K6L<M069Z0
+!s100 <HMai90R3mC^aKcUA9KWa3
+R9
+32
+Z116 !s110 1431793903
+!i10b 1
+Z117 !s108 1431793903.000000
+Z118 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/reg32.vhd|
+Z119 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/reg32.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 5 reg32 0 22 cf]H1V:29^h=K6L<M069Z0
+l42
+L40
+VJ[W1HBgTgP5n;DfYZgH?h1
+!s100 2oc5;CJQla>1DYNY;i5db3
+R9
+32
+R116
+!i10b 1
+R117
+R118
+R119
+!i113 1
+R14
+R15
+Ereg4
+Z120 w1430382919
+R4
+R5
+R6
+Z121 8C:/Users/puerto venecia/Desktop/P1 AOC2/reg4.vhd
+Z122 FC:/Users/puerto venecia/Desktop/P1 AOC2/reg4.vhd
+l0
+L32
+V3hDbhV_A7bzg1>4N9Qz@00
+!s100 l=iL6`mz=n<A[X<zhb>IZ2
+R9
+32
+Z123 !s110 1431793902
+!i10b 1
+Z124 !s108 1431793902.000000
+Z125 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/reg4.vhd|
+Z126 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/reg4.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 4 reg4 0 22 3hDbhV_A7bzg1>4N9Qz@00
+l42
+L40
+VzA];_Ozm[kd^llT>e0e[M1
+!s100 28Sd8NZiVGG^I>k:J0?W82
+R9
+32
+R123
+!i10b 1
+R124
+R125
+R126
+!i113 1
+R14
+R15
+Etwo_bits_shifter
+Z127 w1430382849
+R4
+R5
+R6
+Z128 8C:/Users/puerto venecia/Desktop/P1 AOC2/bits_shifter.vhd
+Z129 FC:/Users/puerto venecia/Desktop/P1 AOC2/bits_shifter.vhd
+l0
+L32
+V>``KTYRlmPk@4izOeR>SC2
+!s100 deJGV>HE6>8?]PdW4eZi]0
+R9
+32
+Z130 !s110 1431793894
+!i10b 1
+Z131 !s108 1431793894.000000
+Z132 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/bits_shifter.vhd|
+Z133 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/bits_shifter.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 16 two_bits_shifter 0 22 >``KTYRlmPk@4izOeR>SC2
+l39
+L37
+Vbj_^QdRmenNNW7b;[Wll]1
+!s100 i;0b?lmD0hmf`Rg0aMFK72
+R9
+32
+R130
+!i10b 1
+R131
+R132
+R133
+!i113 1
+R14
+R15
+Euc
+Z134 w1430384856
+R4
+R5
+R6
+Z135 8C:/Users/puerto venecia/Desktop/P1 AOC2/UC.vhd
+Z136 FC:/Users/puerto venecia/Desktop/P1 AOC2/UC.vhd
+l0
+L32
+V@VHSVFL`I8kOL7RbobnC:0
+!s100 @HDh1^Pmh3U3BJfFVoE_T3
+R9
+32
+!s110 1431793908
+!i10b 1
+Z137 !s108 1431793908.000000
+Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/UC.vhd|
+Z139 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/UC.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 2 uc 0 22 @VHSVFL`I8kOL7RbobnC:0
+l45
+L43
+V_3MHYRVUFETUg3I699fMC2
+!s100 ZcOKB@ejS[PjL2TGCzn<o2
+R9
+32
+!s110 1431793909
+!i10b 1
+R137
+R138
+R139
+!i113 1
+R14
+R15
+Euc_mc
+Z140 w1430382956
+R4
+R5
+R6
+Z141 8C:/Users/puerto venecia/Desktop/P1 AOC2/UC_MC.vhd
+Z142 FC:/Users/puerto venecia/Desktop/P1 AOC2/UC_MC.vhd
+l0
+L32
+VU1[Pc7;0c@R@[fbI3>m9X3
+!s100 ?[mSQ>`BF1HR9BiLJIQi30
+R9
+32
+Z143 !s110 1431793887
+!i10b 1
+Z144 !s108 1431793886.000000
+Z145 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/puerto venecia/Desktop/P1 AOC2/UC_MC.vhd|
+Z146 !s107 C:/Users/puerto venecia/Desktop/P1 AOC2/UC_MC.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 5 uc_mc 0 22 U1[Pc7;0c@R@[fbI3>m9X3
+l50
+L46
+VR1@2fYR7S;;zHbk1^i7KY1
+!s100 JJ9dDe]WkMZ7VI1[K`o@Z3
+R9
+32
+R143
+!i10b 1
+R144
+R145
+R146
+!i113 1
+R14
+R15

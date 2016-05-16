@@ -1,0 +1,175 @@
+{C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_1
+-- Compiling architecture Behavioral of mux2_1
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/MC_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/MC_test.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MC_test
+-- Compiling architecture behavior of MC_test
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_EX.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_EX.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_EX
+-- Compiling architecture Behavioral of Banco_EX
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_ID.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_ID.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_ID
+-- Compiling architecture Behavioral of Banco_ID
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/memoria_RAM_I_MC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/memoria_RAM_I_MC.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memoriaRAM_I_MC
+-- Compiling architecture Behavioral of memoriaRAM_I_MC
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/UC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/UC.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UC
+-- Compiling architecture Behavioral of UC
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/Ext_signo.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/Ext_signo.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Ext_signo
+-- Compiling architecture Behavioral of Ext_signo
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_MEM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_MEM.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_MEM
+-- Compiling architecture Behavioral of Banco_MEM
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/ALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/ALU.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture Behavioral of ALU
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/reg32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/reg32.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg32
+-- Compiling architecture Behavioral of reg32
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_6bits.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/mux2_6bits.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_5bits
+-- Compiling architecture Behavioral of mux2_5bits
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/adder32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/adder32.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity adder32
+-- Compiling architecture Behavioral of adder32
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/MIPs_segmentado_MC_I.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\puerto venecia\Desktop\P1 AOC2\MIPs_segmentado_MC_I.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MIPs_segmentado
+-- Compiling architecture Behavioral of MIPs_segmentado
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/bits_shifter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/bits_shifter.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity two_bits_shifter
+-- Compiling architecture Behavioral of two_bits_shifter
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/mips_test_ini.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/bancos de pruebas/mips_test_ini.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MIPS_test
+-- Compiling architecture behavior of MIPS_test
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/UC_MC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/UC_MC.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UC_MC
+-- Compiling architecture Behavioral of UC_MC
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/BReg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/BReg.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity BReg
+-- Compiling architecture Behavioral of BReg
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/memoriaRAM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/memoriaRAM.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memoriaRAM_D
+-- Compiling architecture Behavioral of memoriaRAM_D
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/reg4.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/reg4.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg4
+-- Compiling architecture Behavioral of reg4
+
+} {} {}} {C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_WB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/puerto venecia/Desktop/P1 AOC2/Banco_WB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_WB
+-- Compiling architecture Behavioral of Banco_WB
+
+} {} {}}
